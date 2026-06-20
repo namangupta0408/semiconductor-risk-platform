@@ -1,0 +1,82 @@
+[
+    {
+        "company": "TSMC",
+        "country": "Taiwan",
+        "event_type": "Earthquake",
+        "severity": "High",
+        "risk_score": 95,
+        "risk_level": "Critical"
+    },
+    {
+        "company": "Infineon",
+        "country": "Germany",
+        "event_type": "Fire",
+        "severity": "Low",
+        "risk_score": 40,
+        "risk_level": "Medium"
+    },
+    {
+        "company": "Unknown",
+        "country": "China",
+        "event_type": "Trade Restriction",
+        "severity": "Low",
+        "risk_score": 50,
+        "risk_level": "Medium"
+    },
+    {
+        "company": "Samsung Electronics",
+        "country": "South Korea",
+        "event_type": "Factory Shutdown",
+        "severity": "High",
+        "risk_score": 95,
+        "risk_level": "Critical"
+    },
+    {
+        "company": "Unknown",
+        "country": "Malaysia",
+        "event_type": "Labor Strike",
+        "severity": "Medium",
+        "risk_score": 60,
+        "risk_level": "Medium"
+    },
+    {
+        "company": "Unknown",
+        "country": "Unknown",
+        "event_type": "Power Outage",
+        "severity": "Medium",
+        "risk_score": 60,
+        "risk_level": "Medium"
+    },
+    {
+        "company": "Unknown",
+        "country": "Taiwan",
+        "event_type": "Geopolitical Conflict",
+        "severity": "Medium",
+        "risk_score": 80,
+        "risk_level": "High"
+    },
+    {
+        "company": "ASML",
+        "country": "Unknown",
+        "event_type": "Logistics Disruption",
+        "severity": "Medium",
+        "risk_score": 65,
+        "risk_level": "High"
+    },
+    {
+        "company": "Unknown",
+        "country": "Unknown",
+        "event_type": "Raw Material Shortage",
+        "severity": "Medium",
+        "risk_score": 70,
+        "risk_level": "High"
+    },
+    {
+        "company": "Unknown",
+        "country": "Unknown",
+        "event_type": "Earthquake",
+        "severity": "High",
+        "risk_score": 95,
+        "risk_level": "Critical"
+    }
+]

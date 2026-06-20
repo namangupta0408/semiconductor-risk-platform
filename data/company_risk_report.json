@@ -1,0 +1,47 @@
+[
+    {
+        "company": "Hsinchu Science Park",
+        "average_risk_score": 100.0,
+        "risk_level": "Critical"
+    },
+    {
+        "company": "TSMC",
+        "average_risk_score": 95.0,
+        "risk_level": "Critical"
+    },
+    {
+        "company": "Samsung Electronics",
+        "average_risk_score": 95.0,
+        "risk_level": "Critical"
+    },
+    {
+        "company": "",
+        "average_risk_score": 80.0,
+        "risk_level": "High"
+    },
+    {
+        "company": "Unknown",
+        "average_risk_score": 77.5,
+        "risk_level": "High"
+    },
+    {
+        "company": "ASML",
+        "average_risk_score": 65.0,
+        "risk_level": "High"
+    },
+    {
+        "company": "Malaysia",
+        "average_risk_score": 60.0,
+        "risk_level": "Medium"
+    },
+    {
+        "company": "United States",
+        "average_risk_score": 50.0,
+        "risk_level": "Medium"
+    },
+    {
+        "company": "Infineon",
+        "average_risk_score": 40.0,
+        "risk_level": "Medium"
+    }
+]

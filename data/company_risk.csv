@@ -1,0 +1,13 @@
+company,total_events,average_risk,highest_risk
+Apple,7,90.71,95
+SK Hynix,2,90.0,90
+Hang Seng Tech Index,2,75.0,75
+Knowles,2,70.0,70
+TSMC,6,62.5,85
+Unknown,7,60.0,60
+Qualcomm,2,55.0,70
+Texas Instruments,2,45.0,45
+Fairchild Semiconductor,2,45.0,45
+Arista Networks,1,45.0,45
+AMD,2,45.0,45
+Coca-Cola,2,40.0,40

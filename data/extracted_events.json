@@ -1,0 +1,72 @@
+[
+    {
+        "company": "TSMC",
+        "country": "Taiwan",
+        "event_type": "Earthquake",
+        "severity": "High",
+        "summary": "Power interruption at TSMC fabrication plants due to major earthquake"
+    },
+    {
+        "company": "Infineon",
+        "country": "Germany",
+        "event_type": "Fire",
+        "severity": "Low",
+        "summary": "temporary production delays"
+    },
+    {
+        "company": "Unknown",
+        "country": "China",
+        "event_type": "Trade Restriction",
+        "severity": "Low",
+        "summary": "new export restrictions"
+    },
+    {
+        "company": "Samsung Electronics",
+        "country": "South Korea",
+        "event_type": "Factory Shutdown",
+        "severity": "High",
+        "summary": "temporary factory shutdown"
+    },
+    {
+        "company": "Unknown",
+        "country": "Malaysia",
+        "event_type": "Labor Strike",
+        "severity": "Medium",
+        "summary": "Workers at a major semiconductor packaging facility in Malaysia began a labor strike disrupting operations."
+    },
+    {
+        "company": "Unknown",
+        "country": "Unknown",
+        "event_type": "Power Outage",
+        "severity": "Medium",
+        "summary": "A power outage affected several chip manufacturing facilities in Japan causing production interruptions."
+    },
+    {
+        "company": "Unknown",
+        "country": "Taiwan",
+        "event_type": "Geopolitical Conflict",
+        "severity": "Medium",
+        "summary": "Rising geopolitical tensions in the Taiwan Strait increased concerns regarding semiconductor supply continuity."
+    },
+    {
+        "company": "ASML",
+        "country": "Unknown",
+        "event_type": "Logistics Disruption",
+        "severity": "Medium",
+        "summary": "After a major shipping route experienced delays, ASML reported logistics disruptions."
+    },
+    {
+        "company": "Unknown",
+        "country": "Unknown",
+        "event_type": "Raw Material Shortage",
+        "severity": "Medium",
+        "summary": "Shortages of rare earth materials impacted semiconductor component production in multiple countries."
+    },
+    {
+        "company": "Unknown",
+        "country": "Unknown",
+        "event_type": "Earthquake",
+        "severity": "High",
+        "summary": "severe earthquake near Hsinchu Science Park disrupted chip fabrication activities."
+    }
+]

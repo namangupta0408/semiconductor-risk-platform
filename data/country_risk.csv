@@ -1,0 +1,12 @@
+country,total_events,average_risk,highest_risk
+USA/Global,1,95.0,95
+US,1,95.0,95
+Global,1,95.0,95
+South Korea,2,90.0,90
+Hong Kong,2,75.0,75
+Illinois,2,70.0,70
+India,4,65.0,90
+Taiwan,7,60.71,100
+Unknown,7,60.0,60
+USA,4,55.0,85
+United States,2,45.0,45
