@@ -2,30 +2,6 @@
 
 ---
 
-## Dashboard
-
-### Overview
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-### Metrics
-
-![Metrics](screenshots/metrics.png)
-
----
-
-### Company & Country Risk
-
-![Risk](screenshots/company-risk.png)
-
----
-
-### Executive AI Summary
-
-![Summary](screenshots/executive-summary.png)
-
 An AI-powered platform that monitors semiconductor supply chain disruptions using real-world news, extracts risk events using Llama 3.2, calculates risk scores, and visualizes the results in an interactive Streamlit dashboard.
 
 ---
